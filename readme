@@ -1,0 +1,19 @@
+For setting up environment
+
+1. Install tensorflow 2.0
+	pip install tensorflow
+2. Install opencv
+
+For predicting 
+
+1. Type python predict.py
+
+For Creating dataset
+
+1. Type python create.py
+2. Enter the alphabet or digits (make sure to change pic_no, total_pics to avoid overlapping)
+3. After keeping proper gesture in box press 's', press multiple times so that it will start (sometimes only one is enough). you can see the if it is saving on not on cmd prompt
+
+For training model
+
+1. Type python model.py 
